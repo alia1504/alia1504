@@ -7,9 +7,7 @@
 
 - 📫 How to reach me **aliyaismail04@gmail.com**
 
-  <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
